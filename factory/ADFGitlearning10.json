@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitlearning10",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65a4558d-6cfa-4081-b755-9b1aebaa3778",
+		"tenantId": "73820ff2-82c3-4f5a-b27c-475cecf1e3f9"
+	}
+}
